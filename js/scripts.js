@@ -183,83 +183,83 @@ $(document).ready(function () {
 
 		/* Gallery block-4 Word Rotator
 		================================================== */
-		var ut_word_rotator = function () {
-			var ut_rotator_words = [
-				'Shaping Vision, We love what we do',
-				'A wall of magic, A place where creativity meets experience.'
-			],
-				counter = 0;
-			setInterval(function () {
-				$(".gallery-text-rotate4").fadeOut(function () {
-					$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
-				});
-			}, 4000);
-		}
-		ut_word_rotator();
+		// var ut_word_rotator = function () {
+		// 	var ut_rotator_words = [
+		// 		'Shaping Vision, We love what we do',
+		// 		'A wall of magic, A place where creativity meets experience.'
+		// 	],
+		// 		counter = 0;
+		// 	setInterval(function () {
+		// 		$(".gallery-text-rotate4").fadeOut(function () {
+		// 			$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
+		// 		});
+		// 	}, 4000);
+		// }
+		// ut_word_rotator();
 
 		/* Gallery block-7 Word Rotator
 		================================================== */
-		var ut_word_rotator = function () {
-			var ut_rotator_words = [
-				'Shaping Vision, We love what we do',
-				'A wall of magic, A place where creativity meets experience.'
-			],
-				counter = 0;
-			setInterval(function () {
-				$(".gallery-text-rotate7").fadeOut(function () {
-					$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
-				});
-			}, 6000);
-		}
-		ut_word_rotator();
+		// var ut_word_rotator = function () {
+		// 	var ut_rotator_words = [
+		// 		'Shaping Vision, We love what we do',
+		// 		'A wall of magic, A place where creativity meets experience.'
+		// 	],
+		// 		counter = 0;
+		// 	setInterval(function () {
+		// 		$(".gallery-text-rotate7").fadeOut(function () {
+		// 			$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
+		// 		});
+		// 	}, 6000);
+		// }
+		// ut_word_rotator();
 
 		/* Gallery block-14 Word Rotator
 		================================================== */
-		var ut_word_rotator = function () {
-			var ut_rotator_words = [
-				'Shaping Vision, We love what we do',
-				'A wall of magic, A place where creativity meets experience.'
-			],
-				counter = 0;
-			setInterval(function () {
-				$(".gallery-text-rotate14").fadeOut(function () {
-					$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
-				});
-			}, 5000);
-		}
-		ut_word_rotator();
+		// var ut_word_rotator = function () {
+		// 	var ut_rotator_words = [
+		// 		'Shaping Vision, We love what we do',
+		// 		'A wall of magic, A place where creativity meets experience.'
+		// 	],
+		// 		counter = 0;
+		// 	setInterval(function () {
+		// 		$(".gallery-text-rotate14").fadeOut(function () {
+		// 			$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
+		// 		});
+		// 	}, 5000);
+		// }
+		// ut_word_rotator();
 
 		/* Gallery block-6 Word Rotator
 		================================================== */
-		var ut_word_rotator = function () {
-			var ut_rotator_words = [
-				'Shaping Vision, We love what we do',
-				'A wall of magic, A place where creativity meets experience.'
-			],
-				counter = 0;
-			setInterval(function () {
-				$(".gallery-text-rotate6").fadeOut(function () {
-					$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
-				});
-			}, 4000);
-		}
-		ut_word_rotator();
+		// var ut_word_rotator = function () {
+		// 	var ut_rotator_words = [
+		// 		'Shaping Vision, We love what we do',
+		// 		'A wall of magic, A place where creativity meets experience.'
+		// 	],
+		// 		counter = 0;
+		// 	setInterval(function () {
+		// 		$(".gallery-text-rotate6").fadeOut(function () {
+		// 			$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
+		// 		});
+		// 	}, 4000);
+		// }
+		// ut_word_rotator();
 
 		/* Gallery block-12 Word Rotator
 		================================================== */
-		var ut_word_rotator = function () {
-			var ut_rotator_words = [
-				'Shaping Vision, We love what we do',
-				'A wall of magic, A place where creativity meets experience.'
-			],
-				counter = 0;
-			setInterval(function () {
-				$(".gallery-text-rotate12").fadeOut(function () {
-					$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
-				});
-			}, 6000);
-		}
-		ut_word_rotator();
+		// var ut_word_rotator = function () {
+		// 	var ut_rotator_words = [
+		// 		'Shaping Vision, We love what we do',
+		// 		'A wall of magic, A place where creativity meets experience.'
+		// 	],
+		// 		counter = 0;
+		// 	setInterval(function () {
+		// 		$(".gallery-text-rotate12").fadeOut(function () {
+		// 			$(this).html(ut_rotator_words[counter = (counter + 1) % ut_rotator_words.length]).fadeIn();
+		// 		});
+		// 	}, 6000);
+		// }
+		// ut_word_rotator();
 	}
 
 	// Team Members Carousel
